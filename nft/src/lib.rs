@@ -54,8 +54,8 @@ impl Contract {
             owner_id,
             NFTContractMetadata {
                 spec: NFT_METADATA_SPEC.to_string(),
-                name: "Street Life Movie".to_string(),
-                symbol: "SLM".to_string(),
+                name: "Street Life Movie Poster".to_string(),
+                symbol: "SLMP1".to_string(),
                 icon: Some(DATA_IMAGE_SVG_NEAR_ICON.to_string()),
                 base_uri: None,
                 reference: None,
